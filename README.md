@@ -14,7 +14,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo of omar" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9](https://github.com/Oomars1/Avatar/blob/main/D00F432A-43CB-4996-AD43-BCE7F2C4F063.png)" alt="Avatar photo of omar">
+      <img height="200" alt="Avatar photo of omar" src="[https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9](https://github.com/Oomars1/Avatar/blob/main/D00F432A-43CB-4996-AD43-BCE7F2C4F063.png)](https://raw.githubusercontent.com/Oomars1/Avatar/refs/heads/main/D00F432A-43CB-4996-AD43-BCE7F2C4F063.png)" alt="Avatar photo of omar">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Omar+De%20Paz;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Systems+Engineer;Frontend+and+Backend+Developer;Exploring+AI+and+Problem-solving;Hardworking+and+Ambitious;Gym+Enthusiast;Football+Lover;Music+and+Programming+Lover" alt="Typing SVG" /></a>
