@@ -95,7 +95,7 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="Postgres SQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
 	<img width="30px" src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" title="Sqlite"/>
@@ -144,7 +144,7 @@
 	    <img width="30px" src="https://skillicons.dev/icons?i=powershell" alt="powershell" title="Powershell"/>
 	    <img width="30px" src="https://skillicons.dev/icons?i=npm" alt="npm" title="Npm"/>
 	       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" title="Git"/>
-   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/curl/curl-original.svg" alt="curl" title="cURL"/>
+  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Curl_logo.svg" alt="Curl" title="Curl"/>
    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" alt="ssh" title="SSH"/>
     </kbd>
     <kbd>
@@ -154,12 +154,12 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"  alt="sublime" title="Sublime"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/NetBeans_Logo.png" alt="NetBeans" title="NetBeans"/>
-	<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/PyCharm_Logo.png" alt="PyCharm" title="PyCharm"/>
-	<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Android_Studio_logo_2014.svg" alt="Android Studio" title="Android Studio"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" title="NetBeans"/>
+	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm"/>
+	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Studio" title="Android Studio"/>
 	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
-	<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Notion-logo.svg" alt="Notion" title="Notion"/>
-	<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Slack_logo_icon.svg" alt="Slack" title="Slack"/>
+	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" title="Notion"/>
+	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" title="Slack"/>
 	<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Xcalidra_Logo.svg" alt="Xcalidra" title="Xcalidra"/>
 	    
   </kbd>
@@ -170,7 +170,7 @@
   <summary>GitHub Stats</summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oomars1&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
   </p>
 </details>
 
