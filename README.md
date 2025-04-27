@@ -154,7 +154,14 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"  alt="sublime" title="Sublime"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-      
+      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/NetBeans_Logo.png" alt="NetBeans" title="NetBeans"/>
+	<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/PyCharm_Logo.png" alt="PyCharm" title="PyCharm"/>
+	<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Android_Studio_logo_2014.svg" alt="Android Studio" title="Android Studio"/>
+	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
+	<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Notion-logo.svg" alt="Notion" title="Notion"/>
+	<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Slack_logo_icon.svg" alt="Slack" title="Slack"/>
+	<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Xcalidra_Logo.svg" alt="Xcalidra" title="Xcalidra"/>
+	    
   </kbd>
 </div>
 </details>
