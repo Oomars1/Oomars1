@@ -40,7 +40,7 @@
  * @param {string} hobbies - Hiking, playing video games, going to the gym, playing football, reading, and listening to music.
  * @param {string} education - Bachelor of Engineering in Computer Systems, Universidad Nacional de El Salvador.
  * @param {string} approachable - Yes, actively seeking exciting opportunities. Feel free to reach out for potential collaborations or job offers.
- * @param {string} @param {string} strength - Resolute and determined in facing challenges.
+ * @param {string} strength - Resolute and determined in facing challenges.
  * @param {string} Weakness - Sometimes I focus too much on perfecting a solution, but I’m learning to find the balance between quality and speed..
  *
  * @throws {Punch} To any and all bugs.
@@ -60,10 +60,9 @@
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
+      <p align="center">
+  	<a href="https://skillicons.dev">
+    	<img src="https://skillicons.dev/icons?i=c,cs,java,js,py" /></a></p>
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
