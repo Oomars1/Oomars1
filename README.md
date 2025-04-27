@@ -174,16 +174,6 @@
 
 </details>
 
-<style>
-  .stat-image {
-    width: 100%; /* Ajusta el ancho al 100% del contenedor */
-    max-width: 500px; /* Tamaño máximo para las imágenes */
-    height: auto; /* Mantiene la proporción original */
-    object-fit: contain; /* Asegura que las imágenes se ajusten sin distorsionarse */
-    margin-bottom: 10px; /* Espaciado entre las imágenes */
-  }
-</style>
-
 <details>
   <summary>Quote</summary>
   <br>
