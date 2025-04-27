@@ -64,7 +64,16 @@
 	    <img width="30px" src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#"/>
 	    <img width="30px" src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
 	    <img width="30px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
-	    <img width="30px" src="https://skillicons.dev/icons?i=py" alt="Python" title="Python"/>
+	    <img width="30px" src="https://skilli<details>
+  <summary>📊 GitHub Stats</summary>
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Oomars1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Oomars1&theme=radical&hide_border=false" alt="GitHub Streak Stats" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oomars1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  </div>
+
+</details>cons.dev/icons?i=py" alt="Python" title="Python"/>
 	</kbd>
 	<kbd>
       <kbd>Back-end</kbd>
@@ -167,12 +176,13 @@
   <summary>📊 GitHub Stats</summary>
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Oomars1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" class="stat-image" /><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Oomars1&theme=radical&hide_border=false" alt="GitHub Streak Stats" class="stat-image" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oomars1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" class="stat-image" />
+    <img width="500px" src="https://github-readme-stats.vercel.app/api?username=Oomars1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+    <img width="500px" src="https://nirzak-streak-stats.vercel.app/?user=Oomars1&theme=radical&hide_border=false" alt="GitHub Streak Stats" /><br/>
+    <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oomars1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   </div>
 
 </details>
+
 
 <details>
   <summary>Quote</summary>
