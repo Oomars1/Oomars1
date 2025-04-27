@@ -165,13 +165,24 @@
 </details>
 <details>
   <summary>📊 GitHub Stats</summary>
+
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Oomars1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Oomars1&theme=radical&hide_border=false" alt="GitHub Streak Stats" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oomars1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Oomars1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" class="stat-image" /><br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Oomars1&theme=radical&hide_border=false" alt="GitHub Streak Stats" class="stat-image" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oomars1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" class="stat-image" />
   </div>
 
 </details>
+
+<style>
+  .stat-image {
+    width: 100%; /* Ajusta el ancho al 100% del contenedor */
+    max-width: 500px; /* Tamaño máximo para las imágenes */
+    height: auto; /* Mantiene la proporción original */
+    object-fit: contain; /* Asegura que las imágenes se ajusten sin distorsionarse */
+    margin-bottom: 10px; /* Espaciado entre las imágenes */
+  }
+</style>
 
 <details>
   <summary>Quote</summary>
