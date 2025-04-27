@@ -57,13 +57,15 @@
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
-      <kbd>Programming Languages</kbd>
-      <br>
-      <br>
-      <p align="center">
-  	<a href="https://skillicons.dev">
-    	<img src="https://skillicons.dev/icons?i=c,cs,java,js,py" /></a></p>
-    </kbd>
+    <kbd>Programming Languages</kbd>
+    <br><br>
+    <img width="30px" src="https://skillicons.dev/icons?i=c" alt="C" title="C"/>
+    <img width="30px" src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#"/>
+    <img width="30px" src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
+    <img width="30px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
+    <img width="30px" src="https://skillicons.dev/icons?i=py" alt="Python" title="Python"/>
+</kbd>
+
     <kbd>
       <kbd>Back-end</kbd>
       <br>
