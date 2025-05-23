@@ -164,7 +164,7 @@
 </div>
 </details>
 <details>
-  <summary>📊 GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <div>
     <img width="500px" src="https://github-readme-stats.vercel.app/api?username=Oomars1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
