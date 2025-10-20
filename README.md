@@ -64,14 +64,13 @@
 	    <img width="30px" src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#"/>
 	    <img width="30px" src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
 	    <img width="30px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
-	    <img width="30px" src="https://skilli<details>
+	    <img width="30px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
 	</kbd>
 	<kbd>
       <kbd>Back-end</kbd>
       <br>
       <br>
-	<img width="30px" src="https://skillicons.dev/icons?i=python" alt="python" title="python"/>
-	<img width="30px" src="https://skillicons.dev/icons?i=spring" alt="spring" title="spring"/>
+	<img width="30px" src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" title="fastapi"/>
 	<img width="30px" src="https://skillicons.dev/icons?i=java" alt="java" title="java"/>
 	<img width="30px" src="https://skillicons.dev/icons?i=django" alt="django" title="django"/>
 </kbd>
