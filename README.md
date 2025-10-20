@@ -70,7 +70,6 @@
       <kbd>Back-end</kbd>
       <br>
       <br>
-      <img width="30px" src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" title="fastapi"/>
 	<img width="30px" src="https://skillicons.dev/icons?i=spring" alt="spring" title="spring"/>
 	<img width="30px" src="https://skillicons.dev/icons?i=java" alt="java" title="java"/>
 	<img width="30px" src="https://skillicons.dev/icons?i=django" alt="django" title="django"/>
